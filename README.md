@@ -1,6 +1,9 @@
 # Bf4rcon
 
-TODO: Write a gem description
+EA Battlefield 4 RCON Protocol implemented in Ruby 2.0.0.
+
+You wants Rails web applications relating to BattleField4?
+RubyBf4ron is better choice for it!
 
 ## Installation
 
