@@ -2,7 +2,7 @@
 
 EA Battlefield 4 RCON Protocol implemented in Ruby 2.0.0.
 
-You wants Rails web applications relating to BattleField4?
+You want Rails web applications relating to BattleField 4 ?
 RubyBf4ron is better choice for it!
 
 ## Installation
