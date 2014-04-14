@@ -17,8 +17,6 @@ Or install it yourself as:
     $ gem install bf4rcon
 
 ## Usage
-
-## Usage
 Example of listing server states
 
 ```ruby:showstate.rb
